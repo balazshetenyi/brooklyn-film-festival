@@ -8,6 +8,6 @@ __Responsive website using Bootstrap 4.0__
 * Booking form
 
 
-![Brookly Film Festival](/image/brooklyn-film-festival.jpg)
+![Brookly Film Festival](/Images/brooklyn-film-festival.jpg)
 
 
